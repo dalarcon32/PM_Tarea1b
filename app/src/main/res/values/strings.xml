@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PMDM Tarea 1</string>
+    <string name="hello_world">Bienvenido a Android</string>
+    <string name="button">Salir</string>
+</resources>
